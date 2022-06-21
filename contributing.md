@@ -1,4 +1,4 @@
-#Welcome to the 30 Days of JavaScript Solutions docs contributing guide
+##Welcome to the 30 Days of JavaScript Solutions docs contributing guide
 
 Thank you for investing your time in contributing to our project! Any contribution you make will be crucial for other students to learn from.
 
