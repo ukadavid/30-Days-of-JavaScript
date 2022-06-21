@@ -21,6 +21,8 @@ To navigate our codebase with confidence, the JavaScript files are saved accordi
 - For day1 it is day1.js
 - For day2 it is day2.js and so on.
 
+Please send a message on the day you will be working on, so that don't duplicate efforts.
+
 ### Issues
 
 #### Create a new issue
