@@ -1,5 +1,6 @@
 # 30 Days of JavaScript
 This is the solutions to the 30 days of JavaScript
+Please always ensure that your forked repository is in sync before sending a pull request, so that we don't lose any commit.
 
 ## Solutions
 The solutions are numbered as denoted in the exercise section, each of them answered with comments for some of them that are difficult to understand.
