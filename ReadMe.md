@@ -1,5 +1,5 @@
-# 30 Days of JavaScript
-This is the solutions to the 30 days of JavaScript
+# 30 Days of JavaScript 
+This is the solutions to the 30 days of JavaScript by <a href="https://github.com/Asabeneh/30-Days-Of-JavaScript">Asabeneh</a>
 - Please always ensure that your forked repository is in sync before sending a pull request, so that we don't lose any commit.
 - Please make sure that the HTML and JS are in a folder that describes the day that you are providing the solution
 
